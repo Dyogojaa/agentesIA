@@ -1,0 +1,38 @@
+# Bytecode files
+*.pyc
+__pycache__/
+
+# Environment files
+.env
+*.ipynb
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Distribution and packaging files
+build/
+dist/
+*.egg-info/
+
+# Other common ignores
+*.log
+*.py[cod]
+*$py.class
+*.egg
+*.manifest
+*.spec
+htmlcov/
+.tox/
+.coverage
+*.mo
+*.pot
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+.python-version
+__pypackages__/
+env/
+venv/
+ENV/
